@@ -1,0 +1,5 @@
+word = input()
+little = word.lower()
+big = word.upper()
+print(little)
+print(big)
